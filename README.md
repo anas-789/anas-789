@@ -246,7 +246,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anas-789/anas-789/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anas-789/output/snake.svg" alt="Snake animation" />
 
 ###
 

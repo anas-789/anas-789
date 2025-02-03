@@ -231,14 +231,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-shah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-shah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2&custom_title=Article" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anas-shah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=21&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-789&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2&custom_title=Article" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=anas-789&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=21&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/anas-shah/anas-shah/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anas-789/anas-789/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -255,7 +255,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anas-shah-bukhari/" target="_blank">
+  <a href="https://www.linkedin.com/in/anas-789-bukhari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="35" alt="youtube logo"  />

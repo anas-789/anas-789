@@ -238,7 +238,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anas-789/anas-789/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anas-789/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -255,7 +255,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anas-789-bukhari/" target="_blank">
+  <a href="https://www.linkedin.com/in/anas-shah-bukhari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="35" alt="youtube logo"  />

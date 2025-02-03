@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Anas Shah (AI Enthe</h2>
+<h2 align="left">Anas Shah (AI Engineer)</h2>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Anas Shah (AI Engineer)</h2>
+<h2 align="left">Anas Shah (AI Enthe</h2>
 
 ###
 
@@ -230,5 +230,48 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=anas-shah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=21&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=anas-shah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=21&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anas-shah/anas-shah/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/anas-shah/count.svg?"  />
+</div>
+
+###
+
+<h2 align="left">How to Reach Me</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anas-shah-bukhari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="35" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="35" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="35" alt="gmail logo"  />
+  <a href="https://web.whatsapp.com/?send=923032408013" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###

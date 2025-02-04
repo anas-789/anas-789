@@ -238,15 +238,7 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=anas-789&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=21&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anas-789/anas-789/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anas-789/output/snake.svg" alt="Snake animation" />
 
 ###
 

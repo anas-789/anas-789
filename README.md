@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQEyznQFosuO1A/profile-displayphoto-shrink_800_800/B4DZRzMcB4G4AU-/0/1737099431029?e=1744243200&v=beta&t=f0vrZdmYzNSlolC55aKtQUl9ByFZ1VgQs59MM5zEmm4"  />
+  <img height="200" src="[https://media.licdn.com/dms/image/v2/D4D03AQEyznQFosuO1A/profile-displayphoto-shrink_800_800/B4DZRzMcB4G4AU-/0/1737099431029?e=1744243200&v=beta&t=f0vrZdmYzNSlolC55aKtQUl9ByFZ1VgQs59MM5zEmm4](https://media.licdn.com/dms/image/v2/D4E35AQGC6rkVTwg2lg/profile-framedphoto-shrink_400_400/B4EZUoq_XpHcAc-/0/1740144113481?e=1749218400&v=beta&t=GebpAuJj7qW0Ga08zjAcrsPHv7nrZ5Je7wvA4ncl7bU)"  />
 </div>
 
 ###

@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h4 align="left">Software Developer | AI Enthusiast | Problem Solver</h4>
+<h4 align="left">Software Developer | AI/ML Engineer | Full Stack Web Developer</h4>
 
 ###
 
